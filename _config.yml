@@ -1,12 +1,11 @@
 # Site
-name: 'Bayu Santoso'
-description: 'Indie Web Developer'
+name: Bayu Jee
+description: Indie Web Developer
 logo: 'http://youez.my.id/assets/images/logo.png'
 favicon: 'http://youez.my.id/assets/images/favicon.ico'
 baseurl: ''
 disqus: 'seclinuxploit'
 email: 'l1nux3r69@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -19,8 +18,8 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Bayu Santoso:
-      name:           Bayu Santoso
+    sal:
+      name:           sal
       site:           https://www.wowthemes.net
       avatar:         http://youez.my.id/assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
@@ -43,7 +42,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Bayu Santoso
+      author: sal
       avatar: http://youez.my.id/assets/images/avatar1.jpg
       
   # all pages
