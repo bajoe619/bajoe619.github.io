@@ -1,8 +1,8 @@
 # Site
 name: 'Bayu Santoso'
 description: 'Indie Web Developer'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'http://youez.my.id/assets/images/logo.png'
+favicon: 'http://youez.my.id/assets/images/favicon.ico'
 baseurl: ''
 disqus: 'seclinuxploit'
 email: 'l1nux3r69@gmail.com'
@@ -19,10 +19,10 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
+    Bayu Santoso:
+      name:           Bayu Santoso
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         http://youez.my.id/assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          l1nux3r69@gmail.com
       twitter:        https://twitter.com/youe_z
@@ -30,7 +30,7 @@ authors:
     jane:
       name:           Jane
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         http://youez.my.id/assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
@@ -43,8 +43,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Bayu Santoso
+      avatar: http://youez.my.id/assets/images/avatar1.jpg
       
   # all pages
   - scope:
