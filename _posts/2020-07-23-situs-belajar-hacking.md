@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Situs Pembelajaran Hacking Dan IT Berbahasa Indonesia"
-author: Youe
+author: Youez
 description: "Bagi sebagian orang, dunia hacking memiliki daya tarik tersendiri. Mereka yang menggeluti dunia ini dianggap keren dan memiliki otak yang jenius."
 categories: [ hacking, informasi it ]
 image: "https://obs.line-scdn.net/0hf0AgUpO6OR98HhPUDe9GSEZIOnBPciocGChoASxwZysDfixPEihxcV8cbyxReX5BEix2fVgaIi5ZencZQnBx/w644"
@@ -15,7 +15,9 @@ Untuk mempelajari kode-kode tersebut pun bukan hal yang dapat ditempuh dalam wak
 Satu hal yang perlu kamu ketahui, pada dasarnya hacker terbagi dalam 5 jenis.
 Ada Script Kiddie Hacker, Hactivist Hacker, Grey Hat Hacker, Black Hat Hacker, dan White Hat Hacker.
 
-[https://obs.line-scdn.net/0hn1JN27GJMR53NxvVBsZOSU1hMnFEWyIdEwFgACdZbyoIVyROGQF5cFQ2OCgKD3ZAGQV-fFMwKi9SU38YSVl5/w644](https://obs.line-scdn.net/0hn1JN27GJMR53NxvVBsZOSU1hMnFEWyIdEwFgACdZbyoIVyROGQF5cFQ2OCgKD3ZAGQV-fFMwKi9SU38YSVl5/w644)
+![Azunyan](https://obs.line-scdn.net/0hn1JN27GJMR53NxvVBsZOSU1hMnFEWyIdEwFgACdZbyoIVyROGQF5cFQ2OCgKD3ZAGQV-fFMwKi9SU38YSVl5/w644)
+
+![Azunyan](https://3.bp.blogspot.com/-jFUYJlcFR4s/WDZALylcM9I/AAAAAAAAAC4/e-JJokwZzDcVZWDVfIYEdjmAORkZwZZQACLcB/s640/azusa.jpg)
 
 Saat ini ada banyak sekali hacker yang bermunculan di Indonesia.
 Salah satu yang lagi heboh dibicarakan adalah Putra Aji Adhari, seorang anak Indonesia yang berhasil membobol situs NASA.
