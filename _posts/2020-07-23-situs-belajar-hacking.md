@@ -15,9 +15,7 @@ Untuk mempelajari kode-kode tersebut pun bukan hal yang dapat ditempuh dalam wak
 Satu hal yang perlu kamu ketahui, pada dasarnya hacker terbagi dalam 5 jenis.
 Ada Script Kiddie Hacker, Hactivist Hacker, Grey Hat Hacker, Black Hat Hacker, dan White Hat Hacker.
 
-![Azunyan](https://obs.line-scdn.net/0hn1JN27GJMR53NxvVBsZOSU1hMnFEWyIdEwFgACdZbyoIVyROGQF5cFQ2OCgKD3ZAGQV-fFMwKi9SU38YSVl5/w644)
-
-![Azunyan](https://3.bp.blogspot.com/-jFUYJlcFR4s/WDZALylcM9I/AAAAAAAAAC4/e-JJokwZzDcVZWDVfIYEdjmAORkZwZZQACLcB/s640/azusa.jpg)
+![Youez](https://obs.line-scdn.net/0hn1JN27GJMR53NxvVBsZOSU1hMnFEWyIdEwFgACdZbyoIVyROGQF5cFQ2OCgKD3ZAGQV-fFMwKi9SU38YSVl5/w644)
 
 Saat ini ada banyak sekali hacker yang bermunculan di Indonesia.
 Salah satu yang lagi heboh dibicarakan adalah Putra Aji Adhari, seorang anak Indonesia yang berhasil membobol situs NASA.
@@ -26,3 +24,8 @@ Putra termasuk kedalam kelompok White Hat Hacker karena ia hanya menguji ketahan
 Wah! Keren banget, kan? Kamu juga bisa lho, geng, belajar dunia hacking dengan bantuan situs yang memang dilegalkan untuk belajar hack.
 Mau tahu apa aja situsnya? Berikut penjelasan lengkapnya!
 
+### 1. LinuxSec.org
+***[LinuxSec.Org](https://linuxsec.org)*** adalah situs pembelajaran linux dan security, sesuai namanya. linuxsec lebih dominan membahas seputar linux, tapi disini linuxsec memiliki subdomain yang di khususkan untuk belajar hacking dan exploit yaitu [LinuxSec Exploit](https://exploit.linuxsec.org) disana kalian bisa menemukan banyak artikel tentang hacking, defaceing dan bug hunting
+
+### 2. Sec.LinuXploit.Com
+***[Sec.LinuXploit.Com](https://sec.linuxploit.com)*** situs yang menyediakan pembelajaran defaceing, dan menyediakan beberapa hacking tools, disana kalian bisa banyak mendapatkan pembelajaran exploitasi, defacing, serta bug hunting juga. situs yang sebelumnya bernama hackerszone ini juga terdapat banyak artikel cara mengeksekusi bug dan cara menutup bugnya juga ( patch )
